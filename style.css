@@ -91,10 +91,12 @@ footer{
   background-color:black;
   height:40vh;
 }
-#footer-div {
+#footer-div p {
   background-color: blue;
+  display: inline-block;
   
 }
+
 span{
   color:crimson;
 }
