@@ -1,7 +1,5 @@
 body{
   font-family: 'Poppins', sans-serif;
-  
-  
   margin: 0;
 }
 h1{
@@ -26,6 +24,7 @@ span{
 }
 .marg-top{
   margin-top:100px;
+  
 }
 #pic{
   background-image: url(images/shapes/Group\ 8450.png);
@@ -52,7 +51,7 @@ a{
 .bck-img{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
-    
+    margin-bottom:70px;
 }
 section{
  
@@ -99,4 +98,13 @@ footer{
 
 span{
   color:crimson;
+}
+.center-aling{
+    width: 50%;
+    margin:0 auto;
+    text-align-last:center ;
+    margin-bottom:30px;
+}
+#head-center{
+  text-align:center;
 }
