@@ -1,0 +1,97 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  
+  
+  margin: 0;
+}
+h1{
+  font-size: 50px;
+  margin:0;
+}
+span{
+  color:burlywood;
+}
+.flexderction{
+  display:flex;
+  margin-bottom:150px;
+}
+.half-width{
+  width:40%;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left:50px;
+}
+.half-width img{
+  width:100%;
+}
+.marg-top{
+  margin-top:100px;
+}
+#pic{
+  background-image: url(images/shapes/Group\ 8450.png);
+  background-repeat: no-repeat;
+  
+  background-size: auto;
+  
+
+}
+a{
+  text-decoration:none;
+  border: 1px solid white;
+  background-color: tomato;
+  border-radius: 25px;
+  padding:12px 20px;
+  color:aliceblue;
+  
+  
+
+}
+.text-bottom{
+      text-align-last: left;
+}
+.bck-img{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+}
+section{
+ 
+  justify-content: center;
+ align-items:center;
+}
+.half-sadow{
+  box-shadow: 15px  15px 120px oldlace;
+  background-color: aquamarine;
+  border-radius: 20px;
+}
+.half-sadow img{
+  border-radius: 50px;
+}
+.continer{
+  display: flex;
+  background-color: aliceblue;
+  margin-left:10%;
+  margin-right:10%;
+  border-radius: 20px;
+  margin-bottom: 100px;
+  box-shadow: 10px 10px 40px red;
+
+}
+.continer div{
+  
+   margin-left: 20px;
+   margin-right: 20px;
+   padding: 20px 30px;
+  
+
+}
+footer{
+  text-align: center;
+  color: white;
+  background-color:black;
+  height:40vh;
+}
+#footer-div {
+  background-color: blue;
+  
+}
